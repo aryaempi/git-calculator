@@ -14,6 +14,14 @@ def divide(a, b):
     pass
 
 
+def power(a, b):
+    pass
+
+
+def remainder(a, b):
+    pass
+
+
 def main():
     pass
 
