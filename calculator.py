@@ -22,6 +22,10 @@ def remainder(a, b):
     pass
 
 
+def show_result(operation, result):
+    pass
+
+
 def main():
     pass
 
