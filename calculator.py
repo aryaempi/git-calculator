@@ -7,12 +7,12 @@ def subtract(a, b):
 
 
 def multiply(a, b):
-    pass
-
+	return a * b
 
 def divide(a, b):
-    pass
-
+	if b == 0:
+        	return "Error: Division by zero!"
+    	return a / b
 
 def power(a, b):
     pass
