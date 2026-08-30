@@ -15,11 +15,13 @@ def divide(a, b):
     	return a / b
 
 def power(a, b):
-    pass
+    return a ** b
 
 
 def remainder(a, b):
-    pass
+    if b==0:
+         return "Cannot divide by zero!"
+    return a % b
 
 
 def main():
